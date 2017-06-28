@@ -1,0 +1,66 @@
+.navigation li {
+    display: inline;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.button {
+    background-color: red;
+    border: none;
+    color: white;
+    padding: 1px 232px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 26px;
+    font-family: "Times New Roman", Times, serif;
+}
+.head_of{
+    width: 60;
+    height: 80;
+    padding-left: 190px;
+    color: red;
+    font-family: serif;
+    font-size : 30px;
+}
+h1{
+text-transform: uppercase;
+font-weight: 600;
+font-size: 30pt;
+color: #059bcd;
+padding-bottom: 14px;
+}
+
+.tjanster{
+    font-family: serif;
+    color:#059bcd;
+    font-size: 20px;
+
+}
+.color{
+    color:green;
+}
+
+.image_plats { 
+   position: relative; 
+   width: 100%; /* for IE 6 */
+}
+
+#plats { 
+   position: absolute; 
+   top: 250px; 
+   left: 400px; 
+   width: 100%;
+   color:#8d8dd4;
+   font-size: 100px;
+   font-family: serif; 
+}
+.resize{
+    border-radius: 50%;
+}
+.circle-carousel{
+    border-radius: 50%;
+}
+.carousel{
+    overflow: hidden;
+}
