@@ -15,10 +15,16 @@
     font-size: 26px;
     font-family: "Times New Roman", Times, serif;
 }
+
+.header {
+  padding-top: 20px;
+}
+
+.contact-us {
+  padding: 20px 0;
+}
+
 .head_of{
-    width: 60;
-    height: 80;
-    padding-left: 190px;
     color: red;
     font-family: serif;
     font-size : 30px;
